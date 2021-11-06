@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#mycanvas{
+    width: 400;
+    height: 100;
+    background-image:url(DrashtiBirthday.jpeg);
+    background-position: center;
+    background-size: cover;
+}
